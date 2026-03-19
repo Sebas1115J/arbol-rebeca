@@ -1,4 +1,4 @@
-const fechaInicio = new Date("2026-01-11")
+const fechaInicio = new Date("2026-01-11T15:00:00")
 
 function contador(){
 

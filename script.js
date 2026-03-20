@@ -53,37 +53,37 @@ const mensajes=[
 
 "Me gustas muchisimo",
 
-"Gracias por aparecer en mi vida"
+"Gracias por aparecer en mi vida",
 
-"Eres ese pensamiento bonito que aparece sin avisar y se queda todo el día"
+"Eres ese pensamiento bonito que aparece sin avisar y se queda todo el día",
 
-"Si pudiera elegir mil veces, mil veces te elegiría a ti"
+"Si pudiera elegir mil veces, mil veces te elegiría a ti",
 
-"No sé cómo lo haces, pero contigo todo se siente en paz"
+"No sé cómo lo haces, pero contigo todo se siente en paz",
 
-"Eres mi lugar favorito en este mundo"
+"Eres mi lugar favorito en este mundo",
 
-"Tu sonrisa tiene el poder de arreglar cualquier día malo"
+"Tu sonrisa tiene el poder de arreglar cualquier día malo",
 
-"Quererte es lo más natural que me ha pasado en la vida"
+"Quererte es lo más natural que me ha pasado en la vida",
 
-"No eres perfecta… eres mejor, eres tú"
+"No eres perfecta… eres mejor, eres tú",
 
-"Desde que llegaste, todo tiene más sentido"
+"Desde que llegaste, todo tiene más sentido",
 
-"Contigo entendí que el amor no se busca, se siente"
+"Contigo entendí que el amor no se busca, se siente",
 
-"Eres esa casualidad que quiero convertir en destino"
+"Eres esa casualidad que quiero convertir en destino",
 
-"No quiero un para siempre perfecto, te quiero a ti, real, todos los días"
+"No quiero un para siempre perfecto, te quiero a ti, real, todos los días",
 
-"Contigo me nacen las ganas de hacer las cosas bien"
+"Contigo me nacen las ganas de hacer las cosas bien",
 
-"Desde que te vi supe que eras la persona correcta"
+"Desde que te vi supe que eras la persona correcta",
 
-"Adoro todo de ti"
+"Adoro todo de ti",
 
-"Eres preciosa, sexy y adorable"
+"Eres preciosa, sexy y adorable",
 
 ]
 
@@ -99,10 +99,10 @@ const playlist=[
 
 "music/La_vida_en_un_beso.mp3",
 "music/All_of_me.mp3",
-"music/Angelica.mp3"
+"music/Angelica.mp3",
 "music/Como_dormiste.mp3",
 "music/ADMV.mp3",
-"music/Nothing_else_matters.mp3"
+"music/Nothing_else_matters.mp3",
 "music/Relacion.mp3",
 "music/Te_vi_venir.mp3",
 
